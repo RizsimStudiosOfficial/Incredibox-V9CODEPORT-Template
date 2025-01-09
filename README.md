@@ -159,4 +159,55 @@ go under the line of 297 and press enter and add this under it for example (chan
    ```
 
 # FOR VERSION ICON MANAGEMENT
-find the sp select thing and
+find the sp select thing and go to sp line and find something like this
+   ```
+          <div class="vicon" id="icon1">
+           <div class="img"></div>
+           <div class="txt"></div>
+           <div class="bul">
+            <svg class="icn-svg"><use xlink:href="#ic-check"></use></svg>
+               </div>
+            </div>
+  ```
+
+that is a version icon thingy are whatever for the index and app html thats what you remove if you have extras
+
+# ONLY HAVING ONE VERSION
+it should be something like this
+```
+                <div id="sp-select">
+                    <div class="sp-line">
+                        <div class="vicon" id="icon1">
+                            <div class="img"></div>
+                            <div class="txt"></div>
+                            <div class="bul">
+                                <svg class="icn-svg"><use xlink:href="#ic-check"></use></svg>
+                            </div>
+                        </div>
+                </div>
+```
+
+# TO ADD A VERSION
+make sure its in the sp select thing or it wont work
+``` 
+                <div id="sp-select">
+                    <div class="sp-line">
+                        <div class="vicon" id="icon1">
+                            <div class="img"></div>
+                            <div class="txt"></div>
+                            <div class="bul">
+                                <svg class="icn-svg"><use xlink:href="#ic-check"></use></svg>
+                            </div>
+                        </div>
+                        <div class="vicon" id="icon2">
+                            <div class="img"></div>
+                            <div class="txt"></div>
+                            <div class="bul">
+                                <svg class="icn-svg"><use xlink:href="#ic-check"></use></svg>
+                            </div>
+                        </div>
+                </div>
+```
+
+its a example but just use a text editor like notepad++ or VS Code it will be helpful editing how version you want!
+
