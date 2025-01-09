@@ -157,3 +157,6 @@ go under the line of 297 and press enter and add this under it for example (chan
   ],
 };
    ```
+
+# FOR VERSION ICON MANAGEMENT
+find the sp select thing and
