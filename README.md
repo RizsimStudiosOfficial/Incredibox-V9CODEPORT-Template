@@ -8,7 +8,7 @@ but you can set it to anything that fits that versions color
 for the other examples check out this: https://github.com/RizsimStudiosOfficial/Incredibox-Latest-Updater/tree/modding
 
 # TO ADD A NEW VERSION
-go under the line of 297 and press enter and add this under it for example (change the number to whatever you want like if you want it on v2 change the number to 2)
+go under the line of 297 and press enter and add this under it for example (change the number to whatever you want like if you want it on v2 change the number to 2) in the script min js file
    ```
    versions.v6 = { // ALIVE
   name: "Alive",
