@@ -211,3 +211,6 @@ make sure its in the sp select thing or it wont work
 
 its a example but just use a text editor like notepad++ or VS Code it will be helpful editing how version you want!
 
+# MAKE YOUR MOD SUPPORTED FOR IOS?
+simple find the sndext = "ogg" and vidext = "webm" and change ogg to mp3 and webm to mp4 (BUT IT DOES REQUIRE YOU TO CONVERT STUFF)
+
