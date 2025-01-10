@@ -214,3 +214,7 @@ its a example but just use a text editor like notepad++ or VS Code it will be he
 # MAKE YOUR MOD SUPPORTED FOR IOS?
 simple find the sndext = "ogg" and vidext = "webm" and change ogg to mp3 and webm to mp4 (BUT IT DOES REQUIRE YOU TO CONVERT STUFF)
 
+# WHAT I RECOMMEND FOR CONVERTING (make mod ios support lol)
+for audio i recommend https://online-audio-converter.com/ the reason is because you dont have a limit used it before and it was great!
+for video i recommend https://www.freeconvert.com/webm-to-mp4
+
