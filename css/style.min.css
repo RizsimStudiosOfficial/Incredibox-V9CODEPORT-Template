@@ -3390,6 +3390,19 @@ video::-webkit-media-controls {
 .darkmode .pop#pop-credit .container .text {
     color: #fff;
 }
+#text-modcredits {
+  margin-top: 0;
+  margin-bottom: 18px;
+  white-space: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #5a5a5a;
+  cursor: default;
+}
+
+.darkmode #text-modcredits {
+  color: #888;
+}
 .pop#pop-credit .container .bt {
     margin: 0 7px;
 }
@@ -3468,6 +3481,14 @@ video::-webkit-media-controls {
 }
 .pop#pop-follow .container #img-shop.focused {
     background-color: transparent !important;
+}
+.pop#pop-mod .container #img-modcredit {
+	width: 600px;
+	height: 340px;
+    background-image: url(../img/creditshit/credit-rizdidcodeong.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .safemode #tab-follow {
     visibility: hidden;
