@@ -219,3 +219,6 @@ for audio i recommend https://online-audio-converter.com/ the reason is because 
 
 for video i recommend https://www.freeconvert.com/webm-to-mp4
 
+# NOTE 
+I will make a YT tutorial of how your supposed to mod this version of incredibox so then you can do it too!
+
