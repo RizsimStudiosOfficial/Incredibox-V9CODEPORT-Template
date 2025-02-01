@@ -212,9 +212,9 @@ make sure its in the sp select thing or it wont work
 its a example but just use a text editor like notepad++ or VS Code it will be helpful editing how version you want!
 
 # MAKE YOUR MOD SUPPORTED FOR IOS?
-simple find the sndext = "ogg" and vidext = "webm" and change ogg to mp3 and webm to mp4 (BUT IT DOES REQUIRE YOU TO CONVERT STUFF)
+simple in the `js/script.min.js` file find the sndext = "ogg" and vidext = "webm" and change ogg to mp3 and webm to mp4 (BUT IT DOES REQUIRE YOU TO CONVERT STUFF)
 
-# WHAT I RECOMMEND FOR CONVERTING (make mod ios support lol)
+# WHAT I RECOMMEND FOR CONVERTING (to make your mod have ios support)
 for audio i recommend https://online-audio-converter.com/ the reason is because you dont have a limit used it before and it was great!
 
 for video i recommend https://www.freeconvert.com/webm-to-mp4
