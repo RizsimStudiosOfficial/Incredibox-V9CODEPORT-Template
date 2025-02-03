@@ -1,12 +1,25 @@
 # Incredibox V9CODE PORT TEMPLATE
 this was made to make sure you dont have to go thru a hassle lol
 
+# THE GUIDE
+I recommend using this site first then you can go back to this: https://boogoxseal.xyz/tools/appjs
+![versionexamplev9code](https://github.com/user-attachments/assets/3c61c50a-1232-41e4-90c7-5a5f3f2cae7d)
+
+to change what version you want it on you can change the "versions.v1" to like "versions.v2", "versions.v3", "versions.v4" and so on all the way up to "versions.v9" unless if you want to add a custom version
+that requires some css coding and stuff
+
+# FOR POLOS
+![poloanimearrayexamplev9code](https://github.com/user-attachments/assets/818364f3-4eed-4a7a-9e2f-e2afc274d139)
+
+# FOR BONUSES
+![bonusexamplev9code](https://github.com/user-attachments/assets/a67e339e-330e-42be-8501-bd2731867c5d)
+
+
+
 # TO CHANGE THE CHECKMARK COLOR
 go to css/style.min.css and find the color
 its "colV1:" and you can set it to anything like this for example colV1: "#84DCC6" which will change it
 but you can set it to anything that fits that versions color
-
-for the other examples check out this: https://github.com/RizsimStudiosOfficial/Incredibox-Latest-Updater/tree/modding
 
 # TO ADD A NEW VERSION
 go under the line of 297 and press enter and add this under it for example (change the number to whatever you want like if you want it on v2 change the number to 2) in the script min js file
@@ -222,3 +235,7 @@ for video i recommend https://www.freeconvert.com/webm-to-mp4
 # NOTE 
 I will make a YT tutorial of how your supposed to mod this version of incredibox so then you can do it too!
 
+# MAIN QUESTION FOR PORTING V8 CODED MODS TO V9?
+will the !0 or the !1 work?
+The answer to that is yes I think I never tested that but when putting it in the script.min.js file it should work
+But I highly still recommend putting the app js thru the vercel js site to get a more accurate result!
