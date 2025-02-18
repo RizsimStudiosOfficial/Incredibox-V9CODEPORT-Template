@@ -9,6 +9,9 @@ can be found in the `js/script.min.js` file
 to change what version you want it on you can change the "versions.v1" to like "versions.v2", "versions.v3", "versions.v4" and so on all the way up to "versions.v9" unless if you want to add a custom version
 that requires some css coding and stuff
 
+# LOOPTIME AND TOTALFRAME ANIMATION MANAGEMENT
+use this site https://joalor64gh.github.io/LooptimeFinder/ its a wip but its a really great tool to use cuz more was planned for it (only use it if you suck at doing looptimes like me!)
+
 # FOR POLOS
 ![poloanimearrayexamplev9code](https://github.com/user-attachments/assets/818364f3-4eed-4a7a-9e2f-e2afc274d139)
 can be found in the `js/script.min.js` file
