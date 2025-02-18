@@ -1,5 +1,5 @@
 # Incredibox V9CODE PORT TEMPLATE
-this was made to make sure you dont have to go thru a hassle lol
+this was made to make sure you dont have to go thru a hassle lol (for v9 code base shit ofc)
 
 # THE GUIDE
 I recommend using this site first then you can go back to this: https://boogoxseal.xyz/tools/appjs
