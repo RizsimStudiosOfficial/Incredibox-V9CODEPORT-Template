@@ -2940,6 +2940,7 @@ video::-webkit-media-controls {
 }
 #box-bottom #box-picto .picto.drag {
     z-index: 1;
+	cursor: grabbing; /* adding the fix that rem made I guess */
 }
 #box-bottom #box-picto .picto.drag .bck {
     cursor: -webkit-grabbing;
